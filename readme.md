@@ -6,3 +6,5 @@
 git clone https://github.com/huangjxjx/habitbuilder-docker.git
 cd habitbuilder-docker
 docker compose up -d
+
+启动完成后，访问网址localhost:80即可进入网站
